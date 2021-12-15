@@ -15,8 +15,6 @@ To set up,
 mkdir exp
 ```
 
-To start training a new model,
-
 ## train a model
 ```bash
 python train.py -e resnet50_bs16_2e-5_aug -t t1
